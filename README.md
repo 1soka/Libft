@@ -4,11 +4,12 @@
 
 # 📚 Libft — 42 Angoulême
 
-<img src="https://img.shields.io/badge/42-Angoul%C3%AAme-000000?style=for-the-badge&logo=42&logoColor=white" alt="42 Angoulême">
-<img src="https://img.shields.io/badge/Libft-100%2F100-5cb85c?style=for-the-badge" alt="Libft 100/100">
-<img src="https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-<img src="https://img.shields.io/badge/Build-Makefile-427819?style=for-the-badge&logo=gnu&logoColor=white" alt="Makefile">
-<img src="https://img.shields.io/badge/Norm-Norminette-00babc?style=for-the-badge" alt="Norminette">
+<img src="https://img.shields.io/badge/42-Angoul%C3%AAme-002cd0?style=for-the-badge&labelColor=010230&logo=42&logoColor=c5c8fc" alt="42 Angoulême">
+<img src="https://img.shields.io/badge/Piscine-Passed-f90fb5?style=for-the-badge&labelColor=010230" alt="Piscine passed">
+<img src="https://img.shields.io/badge/Language-C-0150fc?style=for-the-badge&labelColor=010230&logo=c&logoColor=c5c8fc" alt="C">
+<img src="https://img.shields.io/badge/Shell-Bash-4adef7?style=for-the-badge&labelColor=010230&logo=gnubash&logoColor=c5c8fc" alt="Shell">
+<img src="https://img.shields.io/badge/Norm-Norminette-c5c8fc?style=for-the-badge&labelColor=010230" alt="Norminette">
+<img src="https://img.shields.io/badge/License-MIT-9f025e?style=for-the-badge&labelColor=010230" alt="MIT License">
 
 </div>
 

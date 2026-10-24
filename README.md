@@ -4,16 +4,14 @@
 
 # 📚 Libft — 42 Angoulême
 
-<img src="https://img.shields.io/badge/42-Angoul%C3%AAme-002cd0?style=for-the-badge&labelColor=010230&logo=42&logoColor=c5c8fc" alt="42 Angoulême">
-<img src="https://img.shields.io/badge/Piscine-Passed-f90fb5?style=for-the-badge&labelColor=010230" alt="Piscine passed">
-<img src="https://img.shields.io/badge/Language-C-0150fc?style=for-the-badge&labelColor=010230&logo=c&logoColor=c5c8fc" alt="C">
-<img src="https://img.shields.io/badge/Shell-Bash-4adef7?style=for-the-badge&labelColor=010230&logo=gnubash&logoColor=c5c8fc" alt="Shell">
-<img src="https://img.shields.io/badge/Norm-Norminette-c5c8fc?style=for-the-badge&labelColor=010230" alt="Norminette">
-<img src="https://img.shields.io/badge/License-MIT-9f025e?style=for-the-badge&labelColor=010230" alt="MIT License">
+<img src="https://img.shields.io/badge/42-Angoul%C3%AAme-FA0FB5?style=for-the-badge&labelColor=061047&logo=42&logoColor=C5C8FC" alt="42 Angoulême">
+<img src="https://img.shields.io/badge/Language-C-002CD1?style=for-the-badge&labelColor=FFD23F&logo=c&logoColor=061047" alt="C">
+<img src="https://img.shields.io/badge/Shell-Bash-FA0FB5?style=for-the-badge&labelColor=061047&logo=gnubash&logoColor=C5C8FC" alt="Shell">
+<br>
+<img src="https://img.shields.io/badge/Norm-Norminette-002CD1?style=for-the-badge&labelColor=061047" alt="Norminette">
+<img src="https://img.shields.io/badge/License-MIT-FA0FB5?style=for-the-badge&labelColor=061047" alt="MIT License">
 
 </div>
-
----
 
 ## 📖 About
 
